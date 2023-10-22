@@ -1,2 +1,2 @@
-# Indrajeet_Protofolio
+# Indrajeet_Portofolio
 Data Analyst protofolio
