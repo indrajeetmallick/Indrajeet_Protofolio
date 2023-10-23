@@ -1,5 +1,9 @@
-# Indrajeet_Portofolio
-Data Analyst protofolio#
+# **Indrajeet Mallick** 
+
+Doctoral Researcher/ Consumer behaviour analyst
+
+"*Dedicated consumer behavior analyst specializing in Tourism Sociology and its intricate influence on consumer choices, with a particular emphasis on public health, crisis management, climate change adaptation, and policy frameworks within the tourism industry.*"
+
 
 # Education
 ## PhD Tourism And Leisure (Final Year)
