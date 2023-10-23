@@ -34,7 +34,7 @@ During the COVID-19 Pandemic, with a Focus on Safety Measures.
 
 
 ## M.A. (International Tourism Management)
-- Fachhochschule Westküste, Heide. Germany.
+- Fachhochschule Westküste, Heide, Germany.
 (September 2012 - March 2015)
 
 Thesis Title: "Exploring Storytelling as a Marketing Tool in Tourism: The Importance of Tourist
