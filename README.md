@@ -24,6 +24,7 @@ Change Preparedness.
 2. Enhancing Sustainability in Destination Development: Assessing Tourist Satisfaction Pre- and
 During the COVID-19 Pandemic, with a Focus on Safety Measures.
 3. Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction: A Comparative Analysis.
+
 ---
 ## M.A. (International Tourism Management)
 - Fachhochschule Westküste, Heide. Germany
