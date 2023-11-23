@@ -28,8 +28,6 @@ During the COVID-19 Pandemic, with a Focus on Safety Measures.
 3. Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction: A Comparative Analysis.
 
 
-
-
 ## M.A. (International Tourism Management)
 **Fachhochschule Westküste, Heide, Germany** (September 2012 - March 2015)
 
@@ -42,12 +40,12 @@ Supervisor: Prof. Dr. Eric Horster; Prof. Dr. Wolfgang Georg Arlt
 **American College, Nicosia, Cyprus** (March 2007 – June 2012)
 
 ***
-
+<hr>
 
 # Professional and Research Experience
-## Research Assistant (November 2018 - February 2022)
-
-**Universitat Rovira i Virgili, Tarragona, Spain** 
+---
+## Research Assistant 
+**Universitat Rovira i Virgili, Tarragona, Spain** (November 2018 - February 2022)
 
 **Project: “Analysis of the impact of the COVID-19 pandemic on tourist satisfactionA case study of visitors of Coasta Daurada (South Catalonia)”**
 
@@ -59,9 +57,7 @@ Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst Prof Dr. Daniel Miravet
 
 ## <u>Visiting Researcher<u> 
 
-(May 2022 - August 2022)
-
-**University of Molise, Campobasso, Italy**
+**University of Molise, Campobasso, Italy** (May 2022 - August 2022)
 
 **Project: “Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction”**
 
