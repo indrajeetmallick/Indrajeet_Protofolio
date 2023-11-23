@@ -40,9 +40,9 @@ Supervisor: Prof. Dr. Eric Horster; Prof. Dr. Wolfgang Georg Arlt
 **American College, Nicosia, Cyprus** (March 2007 – June 2012)
 
 ***
-<hr>
+<br />
 
-# Professional and Research Experience
+# <u>Professional and Research Experience</u>
 ---
 ## Research Assistant 
 **Universitat Rovira i Virgili, Tarragona, Spain** (November 2018 - February 2022)
@@ -55,7 +55,7 @@ Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst Prof Dr. Daniel Miravet
 - Adapted seamlessly to both independent work and collaborative efforts in dynamic project settings.
 
 
-## <u>Visiting Researcher<u> 
+## Visiting Researcher   <P align="left (May 2022 - August 2022)>
 
 **University of Molise, Campobasso, Italy** (May 2022 - August 2022)
 
@@ -65,4 +65,5 @@ Supervisor: Assoc. Prof. Francesca Di Virgilio
 - Conducted survey preparation (Ad-hoc and Omnibus Survey) and methodologies.
 - Conducted advanced statistical analysis with machine learning to understand the tourist’s fear of travelling in relation to the post COVID-19.
 - Delivered engaging lectures and facilitated interactive discussions on research findings concerning the Impact of COVID-19 pandemic on tourist satisfaction to undergraduate students.
+
 
