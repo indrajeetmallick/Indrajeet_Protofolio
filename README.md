@@ -5,7 +5,7 @@ Doctoral Researcher/ Consumer behaviour analyst
 "*Dedicated consumer behavior analyst specializing in Tourism Sociology and its intricate influence on consumer choices, with a particular emphasis on public health, crisis management, climate change adaptation, and policy frameworks within the tourism industry.*"
 
 
-# **Education**
+# **<u>Education</u>**
 ---
 ## PhD, Sociology
 **Universitat Rovira i Virgil, Tarragona, Spain** (November 2018 - June 2023)
@@ -42,9 +42,10 @@ Supervisor: Prof. Dr. Eric Horster; Prof. Dr. Wolfgang Georg Arlt
 ***
 <br />
 
-# <u>Professional and Research Experience</u>
+# **<u>Professional and Research Experience</u>**
 ---
 ## Research Assistant 
+
 **Universitat Rovira i Virgili, Tarragona, Spain** (November 2018 - February 2022)
 
 **Project: “Analysis of the impact of the COVID-19 pandemic on tourist satisfactionA case study of visitors of Coasta Daurada (South Catalonia)”**
@@ -55,7 +56,7 @@ Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst Prof Dr. Daniel Miravet
 - Adapted seamlessly to both independent work and collaborative efforts in dynamic project settings.
 
 
-**Visiting Researcher**   <align="left" (May 2022 - August 2022)>
+## Visiting Researcher
 
 **University of Molise, Campobasso, Italy** (May 2022 - August 2022)
 
