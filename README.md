@@ -55,7 +55,7 @@ Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst Prof Dr. Daniel Miravet
 - Adapted seamlessly to both independent work and collaborative efforts in dynamic project settings.
 
 
-## Visiting Researcher   <P align="left (May 2022 - August 2022)>
+**Visiting Researcher**   <P align="left" (May 2022 - August 2022)>
 
 **University of Molise, Campobasso, Italy** (May 2022 - August 2022)
 
