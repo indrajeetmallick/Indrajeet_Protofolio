@@ -11,6 +11,7 @@ Doctoral Researcher/ Consumer behaviour analyst
 **Universitat Rovira i Virgil, Tarragona, Spain** (November 2018 - June 2023)
 
 ***Thesis Title: "Impact of Tourist Satisfaction in Costa Daurada During Uncertain Times: A Study of Public Health and Social Influence."***
+
 Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Dr. Daniel Miravet
   
 ## Visiting Researcher
@@ -46,7 +47,7 @@ Supervisor: Prof. Dr. Eric Horster; Prof. Dr. Wolfgang Georg Arlt
 ---
 ## Research Assistant 
 
-**Universitat Rovira i Virgili, Tarragona, Spain** (November 2018 - February 2022)
+**Universitat Rovira i Virgili, Tarragona, Spain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(November 2018 - February 2022)
 
 **Project: “Analysis of the impact of the COVID-19 pandemic on tourist satisfactionA case study of visitors of Coasta Daurada (South Catalonia)”**
 
@@ -58,7 +59,7 @@ Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst Prof Dr. Daniel Miravet
 
 ## Visiting Researcher
 
-**University of Molise, Campobasso, Italy** (May 2022 - August 2022)
+**University of Molise, Campobasso, Italy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(May 2022 - August 2022)
 
 **Project: “Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction”**
 
