@@ -53,8 +53,11 @@ Supervisor: Prof. Dr. Eric Horster; Prof. Dr. Wolfgang Georg Arlt
 # Professional and Research Experience
 ## Research Assistant
 Universitat Rovira i Virgili, Tarragona, Spain
-Project: “Analysis of the impact of the COVID-19 pandemic on tourist satisfactionA case study of visitors of Coasta Daurada (South Catalonia)”
+
+### Project: “Analysis of the impact of the COVID-19 pandemic on tourist satisfactionA case study of visitors of Coasta Daurada (South Catalonia)”
+
 Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Dr. Daniel Miravet
+
 - Conducted survey preparation, data gathering, arrangement, and validation to create representative graphs and charts, effectively presenting research findings during presentations.
 - Conducted advanced statistical analysis with machine learning and AI to understand the consumer behaviour and travel pattern of tourist during COVID-19.
 - Adapted seamlessly to both independent work and collaborative efforts in dynamic project settings.
