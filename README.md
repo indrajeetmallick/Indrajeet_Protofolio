@@ -90,16 +90,6 @@ Supervisor: Prof. Antionio P. Russo
 
 ## Research Intern 
 
-**STRING-Partnership network, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(March 2013 - June 2013)
-
-Supervisor: Frau Sonja Göttel
-**Project**: Evaluation of the Tourism Prospects Among Youth Travellers in the STRING-Partnership Network.
-
-- Conducted data collection, analysis, and strategic insights presentation, culminating in a comprehensive report with targeted strategies to attract youth tourists within the STRING-region, particularly Schleswig-Holstein, Germany.
-
-
-## Research Intern 
-
 **China Outbound Tourism Research Institute (COTRI), Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(July 2013 - November 2013)
 
 **Project**: Strategic Initiatives for Attracting Chinese Tourists to Hamburg
@@ -108,7 +98,14 @@ Supervisor: Prof. Dr. Wolfgang Georg Arlt
 
 - Conducted extensive study involving design, data collection, in-depth analysis of preferences and behaviours, and strategic enhancement proposals to attract Chinese tourists in Hamburg.
 
+## Research Intern 
 
+**STRING-Partnership network, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(March 2013 - June 2013)
+
+Supervisor: Frau Sonja Göttel
+**Project**: Evaluation of the Tourism Prospects Among Youth Travellers in the STRING-Partnership Network.
+
+- Conducted data collection, analysis, and strategic insights presentation, culminating in a comprehensive report with targeted strategies to attract youth tourists within the STRING-region, particularly Schleswig-Holstein, Germany.
 
 
 
