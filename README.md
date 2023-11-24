@@ -10,14 +10,14 @@ Doctoral Researcher/ Consumer behaviour analyst
 ## **PhD, Sociology**
 **Universitat Rovira i Virgil, Tarragona, Spain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(November 2018 - June 2023)
 
-***Thesis Title**: "Impact of Tourist Satisfaction in Costa Daurada During Uncertain Times: A Study of Public Health and Social Influence."*
+***Thesis Title:** "Impact of Tourist Satisfaction in Costa Daurada During Uncertain Times: A Study of Public Health and Social Influence."*
 
 Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst. Prof. Daniel Miravet
   
 ## **Visiting Researcher**
 **University of Molise, Campobasso. Italy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(May 2022 – August 2022)
 
-**Project**: “Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction”
+**Project:** “Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction”
 Supervisor: Assoc. Prof. Francesca Di Virgilio
 
 ### PhD Projects
@@ -32,7 +32,7 @@ During the COVID-19 Pandemic, with a Focus on Safety Measures.
 ## **M.A. (International Tourism Management)**
 **Fachhochschule Westküste, Heide, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(September 2012 - March 2015)
 
-***Thesis Title**: "Exploring Storytelling as a Marketing Tool in Tourism: The Importance of Tourist Perception. Case Study of Hotel Amedia, Hamburg"*
+***Thesis Title:** "Exploring Storytelling as a Marketing Tool in Tourism: The Importance of Tourist Perception. Case Study of Hotel Amedia, Hamburg"*
 Supervisor: Prof. Eric Horster; Prof. Wolfgang Georg Arlt
 
 
@@ -49,7 +49,7 @@ Supervisor: Prof. Eric Horster; Prof. Wolfgang Georg Arlt
 
 **Universitat Rovira i Virgili, Tarragona, Spain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(November 2018 - February 2022)
 
-**Project**: “Analysis of the impact of the COVID-19 pandemic on tourist satisfactionA case study of visitors of Coasta Daurada (South Catalonia)”
+**Project:** “Analysis of the impact of the COVID-19 pandemic on tourist satisfactionA case study of visitors of Coasta Daurada (South Catalonia)”
 
 Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst Prof Dr. Daniel Miravet
 - Conducted survey preparation, data gathering, arrangement, and validation to create representative graphs and charts, effectively presenting research findings during presentations.
@@ -61,7 +61,7 @@ Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst Prof Dr. Daniel Miravet
 
 **University of Molise, Campobasso, Italy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(May 2022 - August 2022)
 
-**Project**: “Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction.”
+**Project:** “Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction.”
 
 Supervisor: Assoc. Prof. Francesca Di Virgilio
 - Conducted survey preparation (Ad-hoc and Omnibus Survey) and methodologies.
@@ -72,7 +72,7 @@ Supervisor: Assoc. Prof. Francesca Di Virgilio
 
 **Universitat Rovira i Virgili, Tarragona, Spain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(December 2018 – March 2019)
 
-**Project**: EU-H2020 Proposal “SMARTDEST”
+**Project:** EU-H2020 Proposal “SMARTDEST”
 
 Supervisor: Prof. Antionio P. Russo
 - Conducted literature reviews, analysed relevant literature, and synthesized key findings to create high-quality summaries, reports, and research papers.
@@ -92,7 +92,7 @@ Supervisor: Prof. Antionio P. Russo
 
 **China Outbound Tourism Research Institute (COTRI), Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(July 2013 - November 2013)
 
-**Project**: Strategic Initiatives for Attracting Chinese Tourists to Hamburg
+**Project:** Strategic Initiatives for Attracting Chinese Tourists to Hamburg
 
 Supervisor: Prof. Wolfgang Georg Arlt
 
@@ -104,7 +104,7 @@ Supervisor: Prof. Wolfgang Georg Arlt
 
 Supervisor: Frau Sonja Göttel
 
-**Project**: Evaluation of the Tourism Prospects Among Youth Travellers in the STRING-Partnership Network.
+**Project:** Evaluation of the Tourism Prospects Among Youth Travellers in the STRING-Partnership Network.
 
 - Conducted data collection, analysis, and strategic insights presentation, culminating in a comprehensive report with targeted strategies to attract youth tourists within the STRING-region, particularly Schleswig-Holstein, Germany.
 
@@ -140,7 +140,7 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 ---
 **Lunch Seminar Research Series 2022, organized by the Department of Economics of the University of Molise, Italy.**
 
-***Certificate of Best Presentation Award***: **Recognized for outstanding work on** *"Analysis of the impact of the COVID-19 pandemic on tourist satisfaction: A case study of visitors of Coasta Daurada (South Catalonia)."*
+***Certificate of Best Presentation Award:*** **Recognized for outstanding work on** *"Analysis of the impact of the COVID-19 pandemic on tourist satisfaction: A case study of visitors of Coasta Daurada (South Catalonia)."*
 
 ---
 
@@ -153,11 +153,24 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 ---
 
 
+# **Conferences** #
+---
 
+1. **4th International Multidisciplinary Conference on Current Research Trend (IMCCR-2023), India**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12 January 2023 - 13 January 2023)
 
+**Title:** *“HOLIDAY PLANS DISRUPTED BY COVID-19: EXAMINING THE INFLUENCE ON TOURIST SATISFACTION.”*
 
+2. **Tourism, Hospitality and Events International Conference (THE INC-2022), Cyprus.** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22 June 2022 - 24 June 2022)
 
+**Title:** *“TOURIST SATISFACTION DURING THE PANDEMIC: AN ANALYSIS OF THE EFFECTS OF MEASURES TO PREVENT COVID-19 IN A MEDITERRANEAN COASTAL DESTINATION.”*
 
+3. **International Conference Of Social Research With Multidisciplinary Approach (ICSRMA), Indonesia**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31 July 2021 - 01 August 2021)
+
+**Title:** *“IMPACT OF COVID-19 PREVENTION MEASURES AND RELIANCE ON TOURIST SATISFACTION.”*
+
+4. **3rd International Multidisciplinary Conference on Current Research Trend (IMCCR-2023), India**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12 July 2021 - 13 Jul 2021) 
+
+**Title:** *“THE IMPACT OF COVID-19 PANDEMIC ON TOURIST SATISFACTION: A CASE STUDY OF VISITORS OF COASTA DAURADA, SPAIN.”*
 
 
 
