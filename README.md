@@ -41,7 +41,7 @@ Supervisor: Prof. Eric Horster; Prof. Wolfgang Georg Arlt
 **American College, Nicosia, Cyprus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(March 2007 – June 2012)
 
 ***
-<br />
+
 
 # **<u>Professional and Research Experience</u>**
 ---
@@ -81,7 +81,7 @@ Supervisor: Prof. Antionio P. Russo
 
 ## **Marketing Research Analyst**
 
-**Hotel Amedia, Hamburg, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(April 2014- January 2016)
+**Hotel Amedia, Hamburg, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(April 2014 - January 2016)
 
 - Gathered valuable data and insights to support the marketing of Hotel Amedia.
 - Utilized qualitative and quantitative data into compelling stories to promote Hotel Amedia and enhanced tourist perception towards the hotel.
@@ -107,15 +107,23 @@ Supervisor: Frau Sonja Göttel
 **Project**: Evaluation of the Tourism Prospects Among Youth Travellers in the STRING-Partnership Network.
 
 - Conducted data collection, analysis, and strategic insights presentation, culminating in a comprehensive report with targeted strategies to attract youth tourists within the STRING-region, particularly Schleswig-Holstein, Germany.
+---
 
 
+# **Projects** #
+---
+1. The adaptability of complex tourism destinations in the present era of social, economic and environmental transformation: Innovative paths towards destination resilience – **ADAPTOUR** (Contract number- ID: PID2020-112525RB-I00) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021-09 to 2025-09)
+  
+2. Mobilitat dels visitants a la ciutat de Barcelona després de la COVID‐19: anàlisi i orientacions pel foment d'una mobilitat social i ambientalment sostenible – **VISITMOB** (Contract number- ID: 21S09340-001) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021-12 to 2023-06)
+   
+3. COVID-19 y movilidades en territorios turísticos: cambios de pautas y su efecto sobre la salud física y mental de visitantes y residents- **COVMOVTUR** (Contract number- ID: COVMOVTUR) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2020-07-31 - 2022-01-30)
+---
 
 
-
-
-
-
-
+#**Grants**#
+---
+**R+D+i project ADAPTOUR (Contract No. PID2020-112525RB-I00) funded by MCIN/AEI/10.13039/501100011033.** Funding received for PhD thesis research on "Analysis of the impact of the COVID-19 pandemic on tourist satisfaction: A case study of visitors of Coasta Daurada (South Catalonia).
+---
 
 
 
