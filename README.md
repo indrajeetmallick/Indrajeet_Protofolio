@@ -111,7 +111,7 @@ Supervisor: Frau Sonja Göttel
 ---
 
 
-# **Projects** #
+# **<u>Projects<u>** #
 ---
 1. The adaptability of complex tourism destinations in the present era of social, economic and environmental transformation: Innovative paths towards destination resilience – **ADAPTOUR** (Contract number- ID: PID2020-112525RB-I00)
   
@@ -171,10 +171,33 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 4. **3rd International Multidisciplinary Conference on Current Research Trend (IMCCR-2023), India**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12 July 2021 - 13 Jul 2021) 
 
 **Title:** *“THE IMPACT OF COVID-19 PANDEMIC ON TOURIST SATISFACTION: A CASE STUDY OF VISITORS OF COASTA DAURADA, SPAIN.”*
+---
 
 
+# <u>Other education and expertise Certification # 
+---
+**Professional Data Scientist**
+1. "Data-Driven Decisions" Certification by Google (coursera.org/verify/L6ZZKVQ48RSX)
+2. "R Programming" Certification by Johns Hopkins University (coursera.org/verify/3NL4LKBAQKJK)
+3. "Data Scientist’s Toolbox" Certification by Johns Hopkins University (coursera.org/verify/NMNJVLJFVAN5)
+4. "Data, Data Everywhere" Certification by Google (coursera.org/verify/XCJK367UDVLX)
 
-
+**Workshops and Trainings**
+ Workshop on "VII Tourism and Leisure 2018-19", Universitat Rovira i Virgili, Spain (24 Nov 2021- 26 Nov 2021)
+ Workshop on “Social impact”, Researcher Academy, Elsevier (19 Jul 2021- 23 Jul 2021)
+ Training Programme on Using Big Data and Artificial Intelligence for travel decision making, EURECAT, Spain (22 Jan 2021- 25 Jan 2021)
+ Workshop on "MOBILITIES TRANSFORMING DESTINATIONS", POLITUR, Spain (26 Nov 2020- 27 Nov 2020)
+9 Apr 2020- 13 Apr 2020 Workshop on “Introduction to Go.Data- Infection Prevention for Novel Coronavirus
+(COVID-19)”, World Health Organization
+12 Apr 2019- 25 Jun 2019 Training Programme on Making together: URV (Enhancing Student Engagement and
+Participation in University Governance), Demola, Spain
+ Seminars
+22 Oct 2021 Seminar on “Tracking 3.0: Measuring the Tourist Gaze”, Hebrew University, Israel
+24 Sep 2018
+Seminar on “Chinese Outbound Tourism – Developments and Trends 2018”, COTRI,
+Germany
+20 Jun 2018 Seminar on “Destination image research: why we need more imaginative
+approaches”, University of Westminster, London
 
 
 
