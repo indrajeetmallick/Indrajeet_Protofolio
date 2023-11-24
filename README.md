@@ -198,13 +198,35 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
    
 ---
 
+# **<u>Languages</u>** # 
+---
+
+<p align="left">
+<img src="https://i.imgur.com/ecHLIUB.jpg"/>
+
+---
+
+# **<u>Technical Skills</u>** # 
+---
+
+- **SPSS**
+- **SQL** 
+- **R programming**
+- **SMART PLS**
+- **Tableau**
+- **Power BI** 
+- **GIS**
+- **Gephi**
+- **VosViewer**
+- **Machine Learning**
+
+---
 
 
+# **<u>Overall Skills</u>** # 
+---
 
+<p align="left">
+<img src="https://i.imgur.com/rdEPrIi.jpg"/>
 
-
-
-
-
-
-
+---
