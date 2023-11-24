@@ -217,21 +217,21 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 
 # **<u>Overall Skills</u>** # 
 
----
+--- 
 <p align="left">
 <img src="https://i.imgur.com/rdEPrIi.jpg"/>
 <br />
 <br />
----
+--- 
 
 
-<h1> <b> <u>Languages</u> </b> </h1>
+<h1> <b> <u>Languages</u> </b> </h1> 
 
----
+--- 
 <p align="left">
 <img src="https://i.imgur.com/ecHLIUB.jpg"/>
 <br />
 <br />
----
+--- 
 
 PLEASE
