@@ -208,8 +208,7 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 
 
 
-# **<u>Technical Skills</u>** # 
-
+#**<u>Technical Skills</u>**#
 ---
 
 - **SPSS**
