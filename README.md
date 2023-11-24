@@ -120,7 +120,7 @@ Supervisor: Frau Sonja Göttel
 ---
 
 
-#**Grants**#
+# **Grants** #
 ---
 **R+D+i project ADAPTOUR (Contract No. PID2020-112525RB-I00) funded by MCIN/AEI/10.13039/501100011033.** Funding received for PhD thesis research on "Analysis of the impact of the COVID-19 pandemic on tourist satisfaction: A case study of visitors of Coasta Daurada (South Catalonia).
 
