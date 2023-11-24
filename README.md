@@ -206,9 +206,10 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 
 ---
 
+
+
 # **<u>Technical Skills</u>** # 
 ---
-
 - **SPSS**
 - **SQL** 
 - **R programming**
@@ -223,6 +224,8 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 ---
 
 
+
+
 # **<u>Overall Skills</u>** # 
 ---
 
@@ -230,3 +233,5 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 <img src="https://i.imgur.com/rdEPrIi.jpg"/>
 
 ---
+
+
