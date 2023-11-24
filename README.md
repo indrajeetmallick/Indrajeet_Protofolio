@@ -1,7 +1,9 @@
-# **Indrajeet Mallick** 
+# **Indrajeet Mallick**
 
-Doctoral Researcher/ Consumer behaviour analyst
-
+**Doctoral Researcher/ Consumer behaviour analyst** (https://github.com/indrajeetmallick)
+<br />
+<br />
+<p align="center">
 "*Dedicated consumer behavior analyst specializing in Tourism Sociology and its intricate influence on consumer choices, with a particular emphasis on public health, crisis management, climate change adaptation, and policy frameworks within the tourism industry.*"
 
 
