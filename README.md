@@ -107,6 +107,7 @@ Supervisor: Frau Sonja Göttel
 **Project**: Evaluation of the Tourism Prospects Among Youth Travellers in the STRING-Partnership Network.
 
 - Conducted data collection, analysis, and strategic insights presentation, culminating in a comprehensive report with targeted strategies to attract youth tourists within the STRING-region, particularly Schleswig-Holstein, Germany.
+
 ---
 
 
