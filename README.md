@@ -226,11 +226,24 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 <br />
 <br />
 
+
+
 # **<u>Languages</u>** #
 ---
+
 <p align="left">
 <img src="https://i.imgur.com/ecHLIUB.jpg"/>
+
+
 ---
+<br />
+<br />
+
+
+
+---
+<br />
+<br />
 
 
 
