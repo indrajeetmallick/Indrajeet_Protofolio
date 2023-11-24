@@ -156,19 +156,19 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 # **<u>Conferences</u>** #
 ---
 
-1. **4th International Multidisciplinary Conference on Current Research Trend (IMCCR-2023), India**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12 January 2023 - 13 January 2023)
+- **4th International Multidisciplinary Conference on Current Research Trend (IMCCR-2023), India**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12 January 2023 - 13 January 2023)
 
 **Title:** *“HOLIDAY PLANS DISRUPTED BY COVID-19: EXAMINING THE INFLUENCE ON TOURIST SATISFACTION.”*
 
-2. **Tourism, Hospitality and Events International Conference (THE INC-2022), Cyprus.** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22 June 2022 - 24 June 2022)
+- **Tourism, Hospitality and Events International Conference (THE INC-2022), Cyprus.** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22 June 2022 - 24 June 2022)
 
 **Title:** *“TOURIST SATISFACTION DURING THE PANDEMIC: AN ANALYSIS OF THE EFFECTS OF MEASURES TO PREVENT COVID-19 IN A MEDITERRANEAN COASTAL DESTINATION.”*
 
-3. **International Conference Of Social Research With Multidisciplinary Approach (ICSRMA), Indonesia**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31 July 2021 - 01 August 2021)
+- **International Conference Of Social Research With Multidisciplinary Approach (ICSRMA),Indonesia** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31 July 2021 - 01 August 2021)
 
 **Title:** *“IMPACT OF COVID-19 PREVENTION MEASURES AND RELIANCE ON TOURIST SATISFACTION.”*
 
-4. **3rd International Multidisciplinary Conference on Current Research Trend (IMCCR-2023), India**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12 July 2021 - 13 Jul 2021) 
+- **3rd International Multidisciplinary Conference on Current Research Trend (IMCCR-2023), India**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12 July 2021 - 13 Jul 2021) 
 
 **Title:** *“THE IMPACT OF COVID-19 PANDEMIC ON TOURIST SATISFACTION: A CASE STUDY OF VISITORS OF COASTA DAURADA, SPAIN.”*
 
