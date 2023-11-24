@@ -8,14 +8,14 @@ Doctoral Researcher/ Consumer behaviour analyst
 # **<u>Education</u>**
 ---
 ## PhD, Sociology
-**Universitat Rovira i Virgil, Tarragona, Spain** (November 2018 - June 2023)
+**Universitat Rovira i Virgil, Tarragona, Spain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(November 2018 - June 2023)
 
-***Thesis Title: "Impact of Tourist Satisfaction in Costa Daurada During Uncertain Times: A Study of Public Health and Social Influence."***
+***Thesis Title**: "Impact of Tourist Satisfaction in Costa Daurada During Uncertain Times: A Study of Public Health and Social Influence."*
 
 Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Dr. Daniel Miravet
   
 ## Visiting Researcher
-**University of Molise, Campobasso. Italy** (May 2022 – August 2022)
+**University of Molise, Campobasso. Italy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(May 2022 – August 2022)
 
 **Project**: “Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction”
 Supervisor: Assoc. Prof. Francesca Di Virgilio
@@ -30,15 +30,15 @@ During the COVID-19 Pandemic, with a Focus on Safety Measures.
 
 
 ## M.A. (International Tourism Management)
-**Fachhochschule Westküste, Heide, Germany** (September 2012 - March 2015)
+**Fachhochschule Westküste, Heide, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(September 2012 - March 2015)
 
-*Thesis Title: "Exploring Storytelling as a Marketing Tool in Tourism: The Importance of Tourist Perception. Case Study of Hotel Amedia, Hamburg"*
+***Thesis Title**: "Exploring Storytelling as a Marketing Tool in Tourism: The Importance of Tourist Perception. Case Study of Hotel Amedia, Hamburg"*
 Supervisor: Prof. Dr. Eric Horster; Prof. Dr. Wolfgang Georg Arlt
 
 
 
 ## B.A. (Bachelor of Arts in Travel And Tourism)
-**American College, Nicosia, Cyprus** (March 2007 – June 2012)
+**American College, Nicosia, Cyprus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(March 2007 – June 2012)
 
 ***
 <br />
@@ -47,9 +47,9 @@ Supervisor: Prof. Dr. Eric Horster; Prof. Dr. Wolfgang Georg Arlt
 ---
 ## Research Assistant 
 
-**Universitat Rovira i Virgili, Tarragona, Spain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(November 2018 - February 2022)
+**Universitat Rovira i Virgili, Tarragona, Spain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(November 2018 - February 2022)
 
-**Project: “Analysis of the impact of the COVID-19 pandemic on tourist satisfactionA case study of visitors of Coasta Daurada (South Catalonia)”**
+**Project**: “Analysis of the impact of the COVID-19 pandemic on tourist satisfactionA case study of visitors of Coasta Daurada (South Catalonia)”
 
 Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst Prof Dr. Daniel Miravet
 - Conducted survey preparation, data gathering, arrangement, and validation to create representative graphs and charts, effectively presenting research findings during presentations.
@@ -59,9 +59,9 @@ Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst Prof Dr. Daniel Miravet
 
 ## Visiting Researcher
 
-**University of Molise, Campobasso, Italy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(May 2022 - August 2022)
+**University of Molise, Campobasso, Italy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(May 2022 - August 2022)
 
-**Project: “Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction”**
+**Project**: “Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction.”
 
 Supervisor: Assoc. Prof. Francesca Di Virgilio
 - Conducted survey preparation (Ad-hoc and Omnibus Survey) and methodologies.
