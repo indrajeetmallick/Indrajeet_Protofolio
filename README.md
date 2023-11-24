@@ -224,7 +224,7 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 ---
 
 
-<h2> <u>Languages<u> </h2>
+<h1> <u>Languages</u> </h1>
 
 ---
 
