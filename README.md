@@ -68,4 +68,62 @@ Supervisor: Assoc. Prof. Francesca Di Virgilio
 - Conducted advanced statistical analysis with machine learning to understand the tourist’s fear of travelling in relation to the post COVID-19.
 - Delivered engaging lectures and facilitated interactive discussions on research findings concerning the Impact of COVID-19 pandemic on tourist satisfaction to undergraduate students.
 
+## Research Assistant
+
+**Universitat Rovira i Virgili, Tarragona, Spain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(December 2018 – March 2019)
+
+**Project**: EU-H2020 Proposal “SMARTDEST”
+
+Supervisor: Prof. Antionio P. Russo
+- Conducted literature reviews, analysed relevant literature, and synthesized key findings to create high-quality summaries, reports, and research papers.
+- Demonstrated proficiency in handling complex research processes and successfully contributed to advancing knowledge in smart citizen engagement and social inclusion.
+
+
+## Marketing Research Analyst
+
+**Hotel Amedia, Hamburg, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(April 2014- January 2016)
+
+- Gathered valuable data and insights to support the marketing of Hotel Amedia.
+- Utilized qualitative and quantitative data into compelling stories to promote Hotel Amedia and enhanced tourist perception towards the hotel.
+- Developed effective marketing strategies for promotion.
+
+
+## Research Intern 
+
+**STRING-Partnership network, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(March 2013 - June 2013)
+
+Supervisor: Frau Sonja Göttel
+**Project**: Evaluation of the Tourism Prospects Among Youth Travellers in the STRING-Partnership Network.
+
+- Conducted data collection, analysis, and strategic insights presentation, culminating in a comprehensive report with targeted strategies to attract youth tourists within the STRING-region, particularly Schleswig-Holstein, Germany.
+
+
+## Research Intern 
+
+**China Outbound Tourism Research Institute (COTRI), Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(July 2013 - November 2013)
+
+**Project**: Strategic Initiatives for Attracting Chinese Tourists to Hamburg
+
+Supervisor: Prof. Dr. Wolfgang Georg Arlt
+
+- Conducted extensive study involving design, data collection, in-depth analysis of preferences and behaviours, and strategic enhancement proposals to attract Chinese tourists in Hamburg.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
