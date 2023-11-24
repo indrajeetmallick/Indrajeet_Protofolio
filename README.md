@@ -171,6 +171,7 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 4. **3rd International Multidisciplinary Conference on Current Research Trend (IMCCR-2023), India**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12 July 2021 - 13 Jul 2021) 
 
 **Title:** *“THE IMPACT OF COVID-19 PANDEMIC ON TOURIST SATISFACTION: A CASE STUDY OF VISITORS OF COASTA DAURADA, SPAIN.”*
+
 ---
 
 
@@ -194,6 +195,7 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 1. Seminar on “Tracking 3.0: Measuring the Tourist Gaze”, Hebrew University, Israel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (22 October 2021) 
 2. Seminar on “Chinese Outbound Tourism – Developments and Trends 2018”, COTRI, Germany &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (24 September 2018)
 3. Seminar on “Destination image research: why we need more imaginative approaches”, University of Westminster, London &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (20 June 2018)
+   
 ---
 
 
