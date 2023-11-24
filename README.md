@@ -111,7 +111,7 @@ Supervisor: Frau Sonja Göttel
 ---
 
 
-# **<u>Projects<u>** #
+# **<u>Projects</u>** #
 ---
 1. The adaptability of complex tourism destinations in the present era of social, economic and environmental transformation: Innovative paths towards destination resilience – **ADAPTOUR** (Contract number- ID: PID2020-112525RB-I00)
   
@@ -128,7 +128,7 @@ Supervisor: Frau Sonja Göttel
 ---
 
 
-# **Grants** #
+# **<u>Grants</u>** #
 ---
 **R+D+i project ADAPTOUR (Contract No. PID2020-112525RB-I00) funded by MCIN/AEI/10.13039/501100011033**.
 Funding received for PhD thesis research on "Analysis of the impact of the COVID-19 pandemic on tourist satisfaction: A case study of visitors of Coasta Daurada (South Catalonia).
@@ -136,7 +136,7 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 ---
 
 
-# Awards #
+# **<u>Awards</u>** #
 ---
 **Lunch Seminar Research Series 2022, organized by the Department of Economics of the University of Molise, Italy.**
 
@@ -144,7 +144,7 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 
 ---
 
-# Publication #
+# **<u>Publication</u>** #
 ---
 1. MALLICK, I., Miravet, D., & Gutiérrez, A. (2022). TOURIST SATISFACTION DURING THE PANDEMIC: AN ANALYSIS OF THE EFFECTS OF MEASURES TO PREVENT COVID-19 IN A MEDITERRANEAN COASTAL DESTINATION. GeoJournal of Tourism and Geosites, 45(4spl), 1706–1716. https://doi.org/10.30892/gtg.454spl20-991 
 2. MALLICK, I., MIRAVET, D., & GUTIÉRREZ, A. (2023). COVID-19 Prevention Measures and COVID-19 reliance. Relationship with tourist satisfactions. Journal of Small Enterprise Research [Accepted, forthcoming].
@@ -153,7 +153,7 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 ---
 
 
-# **Conferences** #
+# **<u>Conferences</u>** #
 ---
 
 1. **4th International Multidisciplinary Conference on Current Research Trend (IMCCR-2023), India**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12 January 2023 - 13 January 2023)
@@ -174,7 +174,7 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 ---
 
 
-# <u>Other education and expertise Certification # 
+# **<u>Other education and expertise Certification</u>** # 
 ---
 **Professional Data Scientist**
 1. "Data-Driven Decisions" Certification by Google (coursera.org/verify/L6ZZKVQ48RSX)
@@ -183,21 +183,19 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 4. "Data, Data Everywhere" Certification by Google (coursera.org/verify/XCJK367UDVLX)
 
 **Workshops and Trainings**
- Workshop on "VII Tourism and Leisure 2018-19", Universitat Rovira i Virgili, Spain (24 Nov 2021- 26 Nov 2021)
- Workshop on “Social impact”, Researcher Academy, Elsevier (19 Jul 2021- 23 Jul 2021)
- Training Programme on Using Big Data and Artificial Intelligence for travel decision making, EURECAT, Spain (22 Jan 2021- 25 Jan 2021)
- Workshop on "MOBILITIES TRANSFORMING DESTINATIONS", POLITUR, Spain (26 Nov 2020- 27 Nov 2020)
-9 Apr 2020- 13 Apr 2020 Workshop on “Introduction to Go.Data- Infection Prevention for Novel Coronavirus
-(COVID-19)”, World Health Organization
-12 Apr 2019- 25 Jun 2019 Training Programme on Making together: URV (Enhancing Student Engagement and
-Participation in University Governance), Demola, Spain
- Seminars
-22 Oct 2021 Seminar on “Tracking 3.0: Measuring the Tourist Gaze”, Hebrew University, Israel
-24 Sep 2018
-Seminar on “Chinese Outbound Tourism – Developments and Trends 2018”, COTRI,
-Germany
-20 Jun 2018 Seminar on “Destination image research: why we need more imaginative
-approaches”, University of Westminster, London
+1. Workshop on "VII Tourism and Leisure 2018-19", Universitat Rovira i Virgili, Spain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (24 November 2021- 26 November 2021)
+2. Workshop on “Social impact”, Researcher Academy, Elsevier &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (19 July 2021- 23 July 2021)
+3. Training Programme on Using Big Data and Artificial Intelligence for travel decision making, EURECAT, Spain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (22 January 2021- 25 January 2021)
+4. Workshop on "MOBILITIES TRANSFORMING DESTINATIONS", POLITUR, Spain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (26 Nov 2020- 27 Nov 2020)
+5. Workshop on “Introduction to Go.Data- Infection Prevention for Novel Coronavirus (COVID-19)”, World Health Organization &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (9 April 2020- 13 April 2020)
+6. Training Programme on Making together: URV (Enhancing Student Engagement and Participation in University Governance), Demola, Spain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (12 April 2019- 25 June 2019)
+
+**Seminars**
+1. Seminar on “Tracking 3.0: Measuring the Tourist Gaze”, Hebrew University, Israel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (22 October 2021) 
+2. Seminar on “Chinese Outbound Tourism – Developments and Trends 2018”, COTRI, Germany &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (24 September 2018)
+3. Seminar on “Destination image research: why we need more imaginative approaches”, University of Westminster, London &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (20 June 2018)
+---
+
 
 
 
