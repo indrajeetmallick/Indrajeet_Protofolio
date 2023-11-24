@@ -221,96 +221,12 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 <p align="left">
 <img src="https://i.imgur.com/rdEPrIi.jpg"/>
 
-
----
-<br />
-<br />
-
-
-
-# **<u>Languages</u>** #
 ---
 
+
+# **<u>Languages</U>** #
+---
 <p align="left">
 <img src="https://i.imgur.com/ecHLIUB.jpg"/>
 
-
----
-<br />
-<br />
-
-
-
----
-<br />
-<br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# **<u>Overall Skills</u>** # 
----
-
-<p align="left">
-<img src="https://i.imgur.com/rdEPrIi.jpg"/>
-
-
----
-<br />
-<br />
-
-# **<u>Languages</u>** #
-<p align="left">
-<img src="https://i.imgur.com/ecHLIUB.jpg"/>
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# **<u>Languages</u>** # 
----
-
-<p align="left">
-<img src="https://i.imgur.com/ecHLIUB.jpg"/>
 ---
