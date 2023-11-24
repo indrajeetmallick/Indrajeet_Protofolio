@@ -7,20 +7,20 @@ Doctoral Researcher/ Consumer behaviour analyst
 
 # **<u>Education</u>**
 ---
-## PhD, Sociology
+## **PhD, Sociology**
 **Universitat Rovira i Virgil, Tarragona, Spain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(November 2018 - June 2023)
 
 ***Thesis Title**: "Impact of Tourist Satisfaction in Costa Daurada During Uncertain Times: A Study of Public Health and Social Influence."*
 
-Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Dr. Daniel Miravet
+Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst. Prof. Daniel Miravet
   
-## Visiting Researcher
+## **Visiting Researcher**
 **University of Molise, Campobasso. Italy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(May 2022 – August 2022)
 
 **Project**: “Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction”
 Supervisor: Assoc. Prof. Francesca Di Virgilio
 
-### **PhD Projects**
+### PhD Projects
 1. Resilience in Tourism: Navigating Demand Amidst COVID-19 and Climate Change Challenges -
 Unravelling the Effects of Reliance and Prevention Measures, with a Focus on Future Climate
 Change Preparedness.
@@ -29,15 +29,15 @@ During the COVID-19 Pandemic, with a Focus on Safety Measures.
 3. Impact of COVID-19 Restrictions and Fear on Tourist Satisfaction: A Comparative Analysis.
 
 
-## M.A. (International Tourism Management)
+## **M.A. (International Tourism Management)**
 **Fachhochschule Westküste, Heide, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(September 2012 - March 2015)
 
 ***Thesis Title**: "Exploring Storytelling as a Marketing Tool in Tourism: The Importance of Tourist Perception. Case Study of Hotel Amedia, Hamburg"*
-Supervisor: Prof. Dr. Eric Horster; Prof. Dr. Wolfgang Georg Arlt
+Supervisor: Prof. Eric Horster; Prof. Wolfgang Georg Arlt
 
 
 
-## B.A. (Bachelor of Arts in Travel And Tourism)
+## **B.A. (Bachelor of Arts in Travel And Tourism)**
 **American College, Nicosia, Cyprus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(March 2007 – June 2012)
 
 ***
@@ -45,7 +45,7 @@ Supervisor: Prof. Dr. Eric Horster; Prof. Dr. Wolfgang Georg Arlt
 
 # **<u>Professional and Research Experience</u>**
 ---
-## Research Assistant 
+## **Research Assistant** 
 
 **Universitat Rovira i Virgili, Tarragona, Spain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(November 2018 - February 2022)
 
@@ -57,7 +57,7 @@ Supervisor: Assoc. Prof. Aaron Gutierrez Palomero; Asst Prof Dr. Daniel Miravet
 - Adapted seamlessly to both independent work and collaborative efforts in dynamic project settings.
 
 
-## Visiting Researcher
+## **Visiting Researcher**
 
 **University of Molise, Campobasso, Italy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(May 2022 - August 2022)
 
@@ -68,7 +68,7 @@ Supervisor: Assoc. Prof. Francesca Di Virgilio
 - Conducted advanced statistical analysis with machine learning to understand the tourist’s fear of travelling in relation to the post COVID-19.
 - Delivered engaging lectures and facilitated interactive discussions on research findings concerning the Impact of COVID-19 pandemic on tourist satisfaction to undergraduate students.
 
-## Research Assistant
+## **Research Assistant**
 
 **Universitat Rovira i Virgili, Tarragona, Spain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(December 2018 – March 2019)
 
@@ -79,7 +79,7 @@ Supervisor: Prof. Antionio P. Russo
 - Demonstrated proficiency in handling complex research processes and successfully contributed to advancing knowledge in smart citizen engagement and social inclusion.
 
 
-## Marketing Research Analyst
+## **Marketing Research Analyst**
 
 **Hotel Amedia, Hamburg, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(April 2014- January 2016)
 
@@ -88,21 +88,22 @@ Supervisor: Prof. Antionio P. Russo
 - Developed effective marketing strategies for promotion.
 
 
-## Research Intern 
+## **Research Intern**
 
 **China Outbound Tourism Research Institute (COTRI), Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(July 2013 - November 2013)
 
 **Project**: Strategic Initiatives for Attracting Chinese Tourists to Hamburg
 
-Supervisor: Prof. Dr. Wolfgang Georg Arlt
+Supervisor: Prof. Wolfgang Georg Arlt
 
 - Conducted extensive study involving design, data collection, in-depth analysis of preferences and behaviours, and strategic enhancement proposals to attract Chinese tourists in Hamburg.
 
-## Research Intern 
+## **Research Intern** 
 
 **STRING-Partnership network, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(March 2013 - June 2013)
 
 Supervisor: Frau Sonja Göttel
+
 **Project**: Evaluation of the Tourism Prospects Among Youth Travellers in the STRING-Partnership Network.
 
 - Conducted data collection, analysis, and strategic insights presentation, culminating in a comprehensive report with targeted strategies to attract youth tourists within the STRING-region, particularly Schleswig-Holstein, Germany.
