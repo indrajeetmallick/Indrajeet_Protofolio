@@ -136,6 +136,39 @@ Funding received for PhD thesis research on "Analysis of the impact of the COVID
 ---
 
 
+# Awards #
+---
+**Lunch Seminar Research Series 2022, organized by the Department of Economics of the University of Molise, Italy.**
+
+***Certificate of Best Presentation Award***: **Recognized for outstanding work on** *"Analysis of the impact of the COVID-19 pandemic on tourist satisfaction: A case study of visitors of Coasta Daurada (South Catalonia)."*
+
+---
+
+# Publication #
+---
+1. MALLICK, I., Miravet, D., & Gutiérrez, A. (2022). TOURIST SATISFACTION DURING THE PANDEMIC: AN ANALYSIS OF THE EFFECTS OF MEASURES TO PREVENT COVID-19 IN A MEDITERRANEAN COASTAL DESTINATION. GeoJournal of Tourism and Geosites, 45(4spl), 1706–1716. https://doi.org/10.30892/gtg.454spl20-991 
+2. MALLICK, I., MIRAVET, D., & GUTIÉRREZ, A. (2023). COVID-19 Prevention Measures and COVID-19 reliance. Relationship with tourist satisfactions. Journal of Small Enterprise Research [Accepted, forthcoming].
+3. MALLICK, I., MIRAVET, D., & GUTIÉRREZ, A. (2023). Holiday plans altered due to the COVID-19: The impact on tourist satisfaction. Advances in Hospitality and Tourism Research [Accepted, forthcoming]
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
